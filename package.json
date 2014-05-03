@@ -1,7 +1,7 @@
 {
   "name": "stylus-vars",
-  "version": "0.0.1",
-  "description": "Makes javascript variables available to stylus files",
+  "version": "0.0.2",
+  "description": "make js variables available to stylus",
   "main": "index.js",
   "dependencies": {
     "stylus": "~0.44.0"
@@ -12,16 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:yelo-npm/stylusVars.git"
+    "url": "git://github.com/mutnt/stylusVars.git"
   },
   "keywords": [
     "stylus",
-    "variables"
+    "variables",
+    "helper"
   ],
   "author": "xananax@mutnt.net",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yelo-npm/stylusVars/issues"
+    "url": "https://github.com/mutnt/stylusVars/issues"
   },
-  "homepage": "https://github.com/yelo-npm/stylusVars"
+  "homepage": "https://github.com/mutnt/stylusVars"
 }
