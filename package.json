@@ -1,6 +1,6 @@
 {
   "name": "stylus-vars",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "make js variables available to stylus",
   "main": "index.js",
   "dependencies": {
